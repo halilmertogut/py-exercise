@@ -1,0 +1,5 @@
+ipykernel==6.29.5
+pandas==2.2.3
+typer==0.15.2
+tqdm==4.67.1
+pyarrow==19.0.1 
